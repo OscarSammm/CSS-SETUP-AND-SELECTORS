@@ -2,10 +2,8 @@
 <html>
 
 <head>
+<link>
 <style>
-p {
-  font-family: Arial;
-}
   <title>Vacation World</title>
 </style>
 </head>
