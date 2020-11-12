@@ -6,6 +6,14 @@ h1{
   color:maroon;
 }
 
+h2.destination{
+  font-family: cursive;
+}
+
+h5 {
+  color: rebeccapurple;
+}
+
 .title{
   color: teal;
 }
@@ -24,10 +32,6 @@ h1{
 
 .capitalize{
   text-transform: capitalize;
-}
-
-h2.destination{
-  font-family: cursive;
 }
 
 .description h5 {
